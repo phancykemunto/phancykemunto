@@ -6,7 +6,7 @@ I'm Phanice, and I'm looking for a job as a <strong><em>Data Analyst.</em></stro
 
 I’m passionate about turning complex business problems into actionable insights by leveraging data. I thrive on exploring innovative solutions that drive informed decision-making and deliver real value to organizations. My GitHub profile features a range of projects in Python, Machine Learning, and Data Analytics, showcasing my technical abilities and my capacity to apply data science concepts to real-world problems.
 From data collection, cleaning, and exploratory analysis, to feature engineering, automating workflows, building predictive models, and crafting compelling data visualizations, I’m committed to delivering high-quality, scalable solutions that address real-world challenges across various domains.
-# Connect With Me
+# 🤝 Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phanice-analyst/)
 
 # Technologies I Use  
