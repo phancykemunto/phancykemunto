@@ -6,17 +6,20 @@ I'm Phanice, and I'm looking for a job as a <strong><em>Data Analyst.</em></stro
 
 I’m passionate about turning complex business problems into actionable insights by leveraging data. I thrive on exploring innovative solutions that drive informed decision-making and deliver real value to organizations. My GitHub profile features a range of projects in Python, Machine Learning, and Data Analytics, showcasing my technical abilities and my capacity to apply data science concepts to real-world problems.
 From data collection, cleaning, and exploratory analysis, to feature engineering, automating workflows, building predictive models, and crafting compelling data visualizations, I’m committed to delivering high-quality, scalable solutions that address real-world challenges across various domains.
+# Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phanice-analyst/)
 
-### 🛠️ Skills
+# Technologies I Use  
 
-- **Programming Languages**: Python, SQL  
-- **Statistical & Analytical Tools**: STATA, SPSS, Advanced Excel  
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn  
-- **Machine Learning**: Pandas, Numpy, Scikit-learn, XGBoost, SVM, LightGBM, Ensemble Methods 
-- **Natural Language Processing**: NLTK, spaCy, TextBlob, Sentiment Analysis, Topic Modeling   
-- **Databases & ETL**: MySQL, PostgreSQL, Microsoft SQL Server  
-- **Workflow & Collaboration Tools**: Git & GitHub, Jupyter Notebooks, Visual Studio Code (VScode),Google Analytics  
-- **Remote Work & Communication**: Zoom, Microsoft Teams, Google Meet, Slack, Trello
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikit-learn/scikit-learn-original.svg" width="40" title="Scikit-Learn"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"> |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **Python** | **Jupyter** | **TensorFlow** | **PyTorch** | **Scikit-Learn** | **Flask** | **VS Code** |
+
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit"> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" width="40" title="Power BI"> |
+|:-:|:-:|
+| **Streamlit** | **Power BI** |
+
+
 ---
 ## 🔭 I'm Currently Working On
 
@@ -44,5 +47,4 @@ From data collection, cleaning, and exploratory analysis, to feature engineering
 I’m currently looking for my next great team to join—one that values data-driven innovation, creativity, and impactful problem-solving. If you’re working on exciting projects in data science, analytics, or AI, I’d love to connect. 
 Looking forward to hearing from you.
 
-## 🤝 Connect with me 🤝
-**[LinkedIn](https://www.linkedin.com/in/phanice-analyst/)**
+
