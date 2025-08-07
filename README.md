@@ -29,7 +29,8 @@ Let’s connect – I’ll bring the insights, you bring the snacks
 
 ## Key Projects:
 
-[![Sentiment Analysis Project]([(https://github.com/phancykemunto/sentiment-analysis-application/blob/main/sentimentanalysis.jpg))](https://github.com/phancykemunto/sentiment-analysis-application)
+[![Sentiment Analysis Project](https://github.com/phancykemunto/sentiment-analysis-application/blob/main/sentimentanalysis.jpg)](https://github.com/phancykemunto/sentiment-analysis-application)
+
 
 
 ### 📜 Certifications
