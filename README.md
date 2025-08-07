@@ -14,8 +14,6 @@ What sets me apart? A can-do attitude, paired with:
 - 🕒 Strong time management and self-discipline
 - 🌱 Adaptability and a commitment to continuous learning
 - 🔐 Data privacy and security awareness
-- 💡 Domain expertise for delivering context-aware insights
-- 🎤 Engaging presentation skills that make data accessible
 
 I thrive in dynamic, collaborative, and innovative environments, and I’m constantly learning to stay ahead in the evolving world of data.
 
