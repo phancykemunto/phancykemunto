@@ -35,6 +35,9 @@ Let’s connect – I’ll bring the insights, you bring the snacks
 
 I used Python and Natural Language Processing (NLP) techniques to analyze user reviews from the Google Play Store, uncovering key business insights and customer sentiment trends.
 
+### [Advanced Predictive Modeling for Drought Risk Mitigation](https://github.com/phancykemunto/Drought-Prediction)
+
+[![Advanced Predictive Modeling for Drought Risk Mitigation](https://github.com/phancykemunto/sentiment-analysis-application/blob/main/sentimentanalysis.jpg)](https://github.com/phancykemunto/Drought-Prediction)
 
 
 
