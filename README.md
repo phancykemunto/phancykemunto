@@ -46,9 +46,10 @@ In this project, I analyzed drought patterns by extracting and processing climat
 
 I'm currently looking for opportunities as a Data Analyst!
 
-If you know of any openings in your network, 'd love to hear from you!😊
+If you know of any openings in your network, I'd love to hear from you!😊
 
 📩 Feel free to reach out: [phanice01.ke@gmail.com]
+
 🔗 <a href="https://www.linkedin.com/in/phanice-analyst/" target="_blank">View my LinkedIn profile</a>
 
 Thank you—looking forward to amazing conversations and opportunities!
