@@ -1,14 +1,18 @@
 <h2 align="center">Hi there 👋</h2>
 
 
-I’m Phanice Osoro – a data enthusiast passionate about telling stories through data. I excel in transforming raw datasets into powerful, actionable insights that help organizations make informed decisions and drive meaningful change.
+## I'm Phanice Osoro
 
-With over 5 years of experience, I’ve led end-to-end data projects—from data collection and cleaning to analysis, visualization, and reporting—across sectors like tech, education, and finance. I enjoy working at the intersection of data and impact, using tools like Python, SQL, and Power BI to build dashboards, automate workflows, and deliver compelling data narratives.
+I help businesses and teams turn raw, messy data into powerful insights that drive growth, efficiency, and smarter decision-making. By offering **end-to-end data solutions**—from data collection and cleaning, to analysis, visualization, and reporting—I ensure that decision-makers have the right information at the right time.
 
-I'm always learning and love taking on complex challenges as opportunities to grow and improve my craft. Whether it's building predictive models, designing M&E systems, or uncovering trends in large datasets, I bring both curiosity and structure to every project.
----
-# 🤝 Connect with me 🤝
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phanice-analyst/)
+With over **5 years of experience** across the **tech, education, and finance** sectors, I bring a practical, impact-driven approach to every project. I use tools like **Python**, **SQL**, **Power BI**, **R**, **Excel**, and **Tableau** to build dynamic dashboards, automate data workflows, and uncover trends that might otherwise go unseen.
+
+If you're looking to make **data a strategic asset**, I offer the skills, creativity, and curiosity to help you do just that.
+Seeking a data analyst opportunity. 
+
+**I thrive on automation, visualizations, predictive modeling.**
+
+Let’s connect – I’ll bring the insights, you bring the snacks
 
 # Technologies I Use  
 
@@ -22,23 +26,11 @@ I'm always learning and love taking on complex challenges as opportunities to gr
 
 
 ---
-## 🔭 I'm Currently Working On
-
-- 🚀 **My Portfolio Projects** – showcasing end-to-end solutions in data analytics, machine learning, and business intelligence  
-- 🎓 **My Certifications** – enhancing my expertise through advanced courses in data science, generative AI, and analytics tools  
-- 🤝 **My Consultancy Projects** – delivering tailored data-driven solutions for clients across sectors  
-
-
-## 🌱 I'm Currently Learning
-
-- 🤖 **Generative AI** – exploring large language models (LLMs), prompt engineering, and real-world applications  
-- 🧠 **Advanced Deep Learning** – fine-tuning neural networks, CNNs, RNNs, and transformer-based architectures   
-- ⚙️ **Advanced AI for Complete Automation** – integrating AI into workflows for end-to-end automation  
-- 🛠️ **MLOps & Model Deployment** – automating model training and deployment using tools like Docker 
-- 🌐 **Cloud Platforms for Data Science** – working with AWS, GCP, or Azure for scalable data processing and model hosting  
-- 🔐 **Data Ethics & Responsible AI** – ensuring fairness, transparency, and ethical use of AI systems  
 
 ## Key Projects:
+
+[![Sentiment Analysis Project](https://github.com/phancykemunto/sentiment-analysis-banking-app/raw/main/sentimentanalysis.png)](https://github.com/phancykemunto/sentiment-analysis-banking-app)
+
 
 
 ### 📜 Certifications
