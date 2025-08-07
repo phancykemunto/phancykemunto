@@ -21,7 +21,7 @@ Let’s connect – I’ll bring the insights, you bring the snacks
 | **Python** | **Jupyter** | **TensorFlow** | **PyTorch** | **Scikit-Learn** | **Flask** | **VS Code** |
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="40" title="Streamlit"> | <img 
-<img src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="40" alt="Power BI Logo"> |
+src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" width="40" alt="Power BI Logo"> |
 |:-:|:-:|:-:|
 | **Streamlit** | **Power BI** |
 
