@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋</h2>
 
 <p align="center">
-I'm Phanice, and I'm looking for a job as a <strong><em>Data Analyst.</em></strong>
+I'm Phanice
 </p>
 
 I’m passionate about turning complex business problems into actionable insights by leveraging data. I thrive on exploring innovative solutions that drive informed decision-making and deliver real value to organizations. My GitHub profile features a range of projects in Python, Machine Learning, and Data Analytics, showcasing my technical abilities and my capacity to apply data science concepts to real-world problems.
