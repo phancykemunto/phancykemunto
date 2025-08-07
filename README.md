@@ -1,11 +1,12 @@
 <h2 align="center">Hi there 👋</h2>
 
-<p align="center">
-I'm Phanice
-</p>
 
-I’m passionate about turning complex business problems into actionable insights by leveraging data. I thrive on exploring innovative solutions that drive informed decision-making and deliver real value to organizations. My GitHub profile features a range of projects in Python, Machine Learning, and Data Analytics, showcasing my technical abilities and my capacity to apply data science concepts to real-world problems.
-From data collection, cleaning, and exploratory analysis, to feature engineering, automating workflows, building predictive models, and crafting compelling data visualizations, I’m committed to delivering high-quality, scalable solutions that address real-world challenges across various domains.
+I’m Phanice Osoro – a data enthusiast passionate about telling stories through data. I excel in transforming raw datasets into powerful, actionable insights that help organizations make informed decisions and drive meaningful change.
+
+With over 5 years of experience, I’ve led end-to-end data projects—from data collection and cleaning to analysis, visualization, and reporting—across sectors like tech, education, and finance. I enjoy working at the intersection of data and impact, using tools like Python, SQL, and Power BI to build dashboards, automate workflows, and deliver compelling data narratives.
+
+I'm always learning and love taking on complex challenges as opportunities to grow and improve my craft. Whether it's building predictive models, designing M&E systems, or uncovering trends in large datasets, I bring both curiosity and structure to every project.
+---
 # 🤝 Connect with me 🤝
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phanice-analyst/)
 
