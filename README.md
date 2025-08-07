@@ -37,9 +37,9 @@ I used Python and Natural Language Processing (NLP) techniques to analyze user r
 
 ### [Advanced Predictive Modeling for Drought Risk Mitigation](https://github.com/phancykemunto/Drought-Prediction)
 
-[![Advanced Predictive Modeling for Drought Risk Mitigation](https://github.com/phancykemunto/sentiment-analysis-application/blob/main/sentimentanalysis.jpg)](https://github.com/phancykemunto/Drought-Prediction)
+[![Advanced Predictive Modeling for Drought Risk Mitigation](https://github.com/phancykemunto/Drought-Prediction/blob/main/Drought.JPG)](https://github.com/phancykemunto/Drought-Prediction)
 
-
+In this project, I analyzed drought patterns by extracting and processing climate data from NASA POWER and Google Search Trends using Python. Leveraging libraries like Pandas for data cleaning and aggregation, Matplotlib/Seaborn for visualization, and Scikit-learn for preliminary predictive modeling, I uncovered correlations between historical precipitation deficits and surges in drought-related search activity.
 
 ### 📜 Certifications
 
