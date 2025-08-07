@@ -3,16 +3,23 @@
 
 ## I'm Phanice Osoro
 
-I help businesses and teams turn raw, messy data into powerful insights that drive growth, efficiency, and smarter decision-making. By offering **end-to-end data solutions**—from data collection and cleaning, to analysis, visualization, and reporting—I ensure that decision-makers have the right information at the right time.
+I’m an experienced Data Analyst and Consultant passionate about transforming complex data into clear and actionable insights that empower individuals and organizations to make informed, strategic, and forward-thinking decisions.
+With over 5 years of experience across multiple sectors—including education, health, finance, and development—I offer end-to-end data solutions from collection and cleaning to analysis, visualization, and reporting. I’m proficient in Python, R, SQL, Power BI, Tableau, and Excel, and I specialize in building dynamic dashboards, automating workflows, and translating data into compelling stories for technical and non-technical audiences alike.
 
-With over **5 years of experience** across the **tech, education, and finance** sectors, I bring a practical, impact-driven approach to every project. I use tools like **Python**, **SQL**, **Power BI**, **R**, **Excel**, and **Tableau** to build dynamic dashboards, automate data workflows, and uncover trends that might otherwise go unseen.
+What sets me apart? A can-do attitude, paired with:
 
-If you're looking to make **data a strategic asset**, I offer the skills, creativity, and curiosity to help you do just that.
-Seeking a data analyst opportunity. 
+- ✨ Clear communication across remote and in-person teams
+- 🧠 Critical thinking and a sharp eye for detail
+- 🛠️ Problem-solving mindset grounded in evidence
+- 🕒 Strong time management and self-discipline
+- 🌱 Adaptability and a commitment to continuous learning
+- 🔐 Data privacy and security awareness
+- 💡 Domain expertise for delivering context-aware insights
+- 🎤 Engaging presentation skills that make data accessible
 
-**I thrive on automation, visualizations, predictive modeling.**
+I thrive in dynamic, collaborative, and innovative environments, and I’m constantly learning to stay ahead in the evolving world of data.
 
-Let’s connect – I’ll bring the insights, you bring the snacks
+📌 I’m currently open to collaborations, consulting projects, and data analyst roles where data can be a catalyst for meaningful change.
 
 # Technologies I Use  
 
