@@ -41,12 +41,15 @@ I used Python and Natural Language Processing (NLP) techniques to analyze user r
 
 In this project, I analyzed drought patterns by extracting and processing climate data from NASA POWER and Google Search Trends using Python. Leveraging libraries like Pandas for data cleaning and aggregation, Matplotlib/Seaborn for visualization, and Scikit-learn for preliminary predictive modeling, I uncovered correlations between historical precipitation deficits and surges in drought-related search activity.
 
-### 📜 Certifications
 
-- 🎓 **IBM Machine Learning with Python (ML0101EN)** – (Expected June 2025) 
 
-### 🙏 Thank You for Visiting My Page!
-I’m currently looking for my next great team to join—one that values data-driven innovation, creativity, and impactful problem-solving. If you’re working on exciting projects in data science, analytics, or AI, I’d love to connect. 
-Looking forward to hearing from you.
 
+I'm currently looking for opportunities as a Data Analyst!
+
+If you know of any openings in your network, 'd love to hear from you!😊
+
+📩 Feel free to reach out: [phanice01.ke@gmail.com]
+🔗 <a href="https://www.linkedin.com/in/phanice-analyst/" target="_blank">View my LinkedIn profile</a>
+
+Thank you—looking forward to amazing conversations and opportunities!
 
