@@ -32,7 +32,7 @@ I thrive in dynamic, collaborative, and innovative environments, and I’m const
 
 ## Key Projects:
 
-### [Sentiment Analysis of Mobile Banking Apps](https://github.com/phancykemunto/sentiment-analysis-application)
+### [Sentiment Analysis of Mobile Banking Apps Reviews](https://github.com/phancykemunto/sentiment-analysis-application)
 
 [![Sentiment Analysis Project](https://github.com/phancykemunto/sentiment-analysis-application/blob/main/sentimentanalysis.jpg)](https://github.com/phancykemunto/sentiment-analysis-application)
 
