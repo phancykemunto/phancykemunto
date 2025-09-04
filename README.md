@@ -4,7 +4,7 @@
 ## I'm Phanice Osoro
 
 I’m an experienced Data Analyst and Consultant passionate about transforming complex data into clear and actionable insights that empower individuals and organizations to make informed, strategic, and forward-thinking decisions.
-With over 5 years of experience across multiple sectors—including education, health, finance, and development—I offer end-to-end data solutions from collection and cleaning to analysis, visualization, and reporting. I’m proficient in Python, R, SQL, Power BI, Tableau, and Excel, and I specialize in building dynamic dashboards, automating workflows, and translating data into compelling stories for technical and non-technical audiences alike.
+With over 5 years of experience across multiple sectors—including education, health, finance, and tech—I offer end-to-end data solutions from collection and cleaning to analysis, visualization, and reporting. I’m proficient in Python, R, SQL, Power BI, Tableau, and Excel, and I specialize in building dynamic dashboards, automating workflows, and translating data into compelling stories for technical and non-technical audiences alike.
 
 What sets me apart? A can-do attitude, paired with:
 
