@@ -11,7 +11,7 @@ I empower businesses and organizations to make informed decisions by transformin
 
 ### 🚀 What I Bring to the Table
 
-- ** Predictive Analytics:** Building models with **Python** to forecast trends, reduce risk, and identify opportunities.
+- **Predictive Analytics:** Building models with **Python** to forecast trends, reduce risk, and identify opportunities.
 - **Data Visualization & Storytelling:** Crafting intuitive, powerful dashboards in **Power BI** and **Tableau** that communicate complex findings simply.
 - **End-to-End Data Solutions:** From **SQL** querying and data wrangling to automation and reporting, I own the entire data pipeline.
 - **Business Acumen:** I don't just report numbers; I translate them into strategic recommendations that impact the bottom line.
@@ -48,11 +48,11 @@ In this project, I analyzed drought patterns by extracting and processing climat
 
 I'm always open to discussing new projects, opportunities, or ideas.
 
-📩 Feel free to reach out: [phanice01.ke@gmail.com]
-- **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/phanice-analyst/])
-- **Email:** phanice01.ke@gmail.com
 
-##🔗 <a href="https://www.linkedin.com/in/phanice-analyst/" target="_blank">View my LinkedIn profile</a>
+🔗 <a href="https://www.linkedin.com/in/phanice-analyst/" target="_blank">Connect with me</a>
+**Email:** phanice01.ke@gmail.com
+
+
 
 *Open to collaborations and full-time opportunities where I can use data to create meaningful impact.*
 
