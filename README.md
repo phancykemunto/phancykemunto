@@ -49,7 +49,7 @@ In this project, I analyzed drought patterns by extracting and processing climat
 I'm always open to discussing new projects, opportunities, or ideas.
 
 
-🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/phanice-analyst/" target="_blank">Connect with me</a>
+**LinkedIn:** <a href="https://www.linkedin.com/in/phanice-analyst/" target="_blank">Connect with me</a>
 
 **Email:** phanice01.ke@gmail.com
 
