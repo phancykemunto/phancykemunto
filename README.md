@@ -3,7 +3,7 @@
 
 ## I'm Phanice Osoro
 
-**Data Analyst | Consultant | Turning Data into Strategy & Profit**
+**Data Analyst | Consultant | Turning Data into Actinable Insights**
 
 I empower businesses and organizations to make informed decisions by transforming raw data into clear, actionable insights. With over 5 years of experience, I specialize in automation, building predictive models and dynamic dashboards that drive growth, efficiency, and a competitive edge.
 
