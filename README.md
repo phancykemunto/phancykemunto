@@ -3,18 +3,18 @@
 
 ## I'm Phanice Osoro
 
-**Data Analyst | Consultant | Turning Data into Actinable Insights**
+**Data Analyst | Turning Data into Actinable Insights**
 
-I empower businesses and organizations to make informed decisions by transforming raw data into clear, actionable insights. With over 5 years of experience, I specialize in automation, building predictive models and dynamic dashboards that drive growth, efficiency, and a competitive edge.
+I support businesses and organizations to make informed decisions by transforming raw data into clear, actionable insights. With over 5 years of experience, I specialize in designing mobile data collection tools, data quality and validation, feature engineering, data analysis,visualization, report writing, building predictive models and dynamic dashboards that drive growth and implement data-driven solutions.
 
 ---
 
 ### 🚀 What I Bring to the Table
-
+- **Data Quality:** Ensure data is fit and reliable for analysis.
 - **Predictive Analytics:** Building models with **Python** to forecast trends, reduce risk, and identify opportunities.
 - **Data Visualization & Storytelling:** Crafting intuitive, powerful dashboards in **Power BI** and **Tableau** that communicate complex findings simply.
 - **End-to-End Data Solutions:** From **SQL** querying and data wrangling to automation and reporting, I own the entire data pipeline.
-- **Business Acumen:** I don't just report numbers; I translate them into strategic recommendations that impact the bottom line.
+- **Business Acumen:** I don't just report numbers; I translate them into strategic recommendations that impact business.
 
 ---
 
